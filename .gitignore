@@ -1,0 +1,6 @@
+/node_modules
+
+/locales/**
+/output_files/** 
+/output_table/** 
+/input_table/**
